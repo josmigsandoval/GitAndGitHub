@@ -1,0 +1,18 @@
+p{
+	background-color: #00FF00;
+
+}
+.img{
+	height: 200px;
+	width: 500px;
+border-image: 1px;
+}
+.titulos{
+	 font-family: "Homer Simpson", cursive;
+	 color: #01A9DB;
+
+}
+.tsecundario{
+	font-family: "Homer Simpson", cursive;
+	 color: #80FF00;
+}
